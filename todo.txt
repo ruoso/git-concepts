@@ -1,0 +1,26 @@
+Stage-commit workflow
+x text on chart too small
+
+Non-linear history
+x parallelograms too small
+
+Push-pull workflow
+- show origin repo with its master ref
+
+Repository architecture
+x change color of tag object
+x lighten the commit's red
+x foobar -> newfeature
+x releasex -> v1.0
+x make blobs bigger (the files are bigger)
+
+Consider adding these (in Bonus section?)
+- list non-manpage help topics (revisions, ...)
+- show gitk and git gui
+- define fast-forward
+- more on tracking branches
+  - refspec
+- orphaned commits and garbage collection
+- how git pack works
+- why git merge is better
+
